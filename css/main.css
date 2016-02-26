@@ -448,12 +448,12 @@ h1.navbar-brand {
 ==================================================================*/
 
 #about {
-    background-color: #009EE3;
+    background-color: #4c4c4c;
     color: #fff;
 }
 
 #about h3 {
-    color: #fff;
+    /*color: #fff;*/
     margin: 0 0 35px;
     text-transform: uppercase;
 }
