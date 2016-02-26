@@ -57,6 +57,11 @@ main > section {
     padding: 70px 0;
 }
 
+#navlogo {
+    height: 50px;
+    margin-top: -16px;
+}
+
 .btn {
     border-radius: 0;
     border: 0;
@@ -828,7 +833,7 @@ ul.external li a:hover {
 ==================================================================*/
 
 #social {
-    background-image: url(../img/slider/banner.jpg);
+    background-image: url(../img/slider/bc-banner.jpg);
     padding: 0;
 }
 
